@@ -80,16 +80,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoadAsHamimMahi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoadAsHamimMahi&theme=radical&hide_border=true&layout=compact" height="170" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=SoadAsHamimMahi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoadAsHamimMahi&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoadAsHamimMahi&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SoadAsHamimMahi&icon=0&color=0" alt="Profile Views" />
+  <a href="https://git.io/streak-stats">
+    <img height="170" src="https://streak-stats.demolab.com?user=SoadAsHamimMahi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>

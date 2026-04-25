@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Soad%20As%20Hamim%20Mahi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI-Powered%20Products&descSize=16&descAlignY=58&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Soad%20As%20Hamim%20Mahi&fontSize=42&fontColor=ffffff&fontAlignY=38&deploy=true)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-Powered+SaaS+Products+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+%7C+Next.js+%7C+Firebase+%7C+Supabase;Turning+Ideas+into+Real+Products+Fast+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-Powered+SaaS+Products+%F0%9F%9A%80;Full+Stack+Developer+%7C+MERN+%7C+Next.js;Shipping+Real+Products+Fast+⚡)](https://github.com/SoadAsHamimMahi)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SoadAsHamimMahi&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/SoadAsHamimMahi?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
@@ -35,9 +35,9 @@ const mahi = {
 
 | 🏗️ Project | 📝 Description | 🛠 Tech | 🔗 Links |
 |:---:|:---|:---:|:---:|
-| **HiveMistri** | Home service marketplace connecting workers & clients | MERN · Firebase · JWT | [![Client](https://img.shields.io/badge/Client-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/SoadAsHamimMahi/HiveMistri_Client_Side) [![Server](https://img.shields.io/badge/Server-Repo-5b21b6?style=flat-square&logo=github)](https://github.com/SoadAsHamimMahi/HiveMistri_Server_Side) |
-| **HiveMistri Worker** | Worker-side dashboard for task & service management | React · Node.js | [![Repo](https://img.shields.io/badge/Repo-7c3aed?style=flat-square&logo=github)](https://github.com/SoadAsHamimMahi/HiveMistri_Worker_Side) |
-| **FB Smart Replies** | Automation tool for smart Facebook invite replies | JavaScript · Firebase | [![Repo](https://img.shields.io/badge/Repo-7c3aed?style=flat-square&logo=github)](https://github.com/SoadAsHamimMahi/FB-Invite-Smart-Replies) |
+| **HireMistri** | Home service marketplace connecting workers & clients | MERN · Firebase · JWT | [![Client](https://img.shields.io/badge/Client-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/SoadAsHamimMahi/HireMistri_Client_Side) [![Server](https://img.shields.io/badge/Server-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/SoadAsHamimMahi/HireMistri_Server_Side) [![Worker](https://img.shields.io/badge/Worker-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/SoadAsHamimMahi/HireMistri_Worker_Side) |
+| **YouTube AI SaaS** | AI-powered tool for YouTube content analysis & optimization | TypeScript · Next.js · AI | [![Demo](https://img.shields.io/badge/Demo-Live-7c3aed?style=flat-square&logo=vercel)](https://youtube-ai-saas-blue.vercel.app) [![Repo](https://img.shields.io/badge/Repo-7c3aed?style=flat-square&logo=github)](https://github.com/SoadAsHamimMahi/youtube-ai-saas) |
+| **VibeTogether** | Social event planning & community engagement platform | JavaScript · React · Firebase | [![Repo](https://img.shields.io/badge/Repo-7c3aed?style=flat-square&logo=github)](https://github.com/SoadAsHamimMahi/VibeTogether) |
 
 </div>
 
